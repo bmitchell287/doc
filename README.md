@@ -1,7 +1,8 @@
 # doc
-<<<<<<< HEAD
+
+
+jjhdsgfdg
+
 
 test
-=======
-jjhdsgfdg
->>>>>>> testing
+
