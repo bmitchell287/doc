@@ -1,12 +1,2 @@
 
 
-# doc
-
-
-
-
-
-From local
-
-
-
